@@ -417,24 +417,24 @@ body {
 /* 四张首页图 */
 
 .HWallPaper1 {
-    background: url(../images/WallPaper1_1.jpg) no-repeat;
+    background: url('https://s3.bmp.ovh/imgs/2022/02/e51d79a2ce4c9d86.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .HWallPaper2 {
-    background: url(../images/WallPaper1_2.jpg) no-repeat;
+    background: url('https://s3.bmp.ovh/imgs/2022/02/891defe5b21abbda.jpg') no-repeat;
     background-size: cover;
 }
 
 .HWallPaper3 {
-    background: url(../images/WallPaper1_3.jpg) no-repeat;
+    background: url('https://s3.bmp.ovh/imgs/2022/02/a88e79c3e3daae16.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .HWallPaper4 {
-    background: url(../images/WallPaper1_4.jpg) no-repeat;
+    background: url('https://s3.bmp.ovh/imgs/2022/02/87371543010a73d3.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
 }
